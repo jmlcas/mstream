@@ -1,6 +1,3 @@
-# mstream
-Mstream - Reproductor de música - Docker compose
+# Mstream
 
-Ver en "localhost:8200"
-
-
+Ver en "http://localhost:8200"
